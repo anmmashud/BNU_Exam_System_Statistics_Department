@@ -7,8 +7,6 @@
 
 GitHub repo: [BNU_Exam_System_Statistics_Department](https://github.com/anmmashud/BNU_Exam_System_Statistics_Department)
 
-https://github.com/anmmashud/Exam_System_of_BNU_in_the_Statistics_Department
-
 ## Research Questions:
 
 RQ1: What are the trends and patterns in the exam questions of the Statistics department at Bangladesh National University over the past few years?
