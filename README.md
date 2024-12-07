@@ -1,6 +1,6 @@
 # Exam System of Bangladesh National University (BNU): A Study on Question Patterns in the Statistics Department
 
-![BNU Exam Research](assets/cover-image.jpg) <!-- Optional: Add a cover image -->
+![BNU Exam Research](images/cover-image.webp) <!-- Optional: Add a cover image -->
 
 ## Abstract
 This repository presents the study on the exam system at Bangladesh National University (BNU), focusing on the **Statistics Department**. The research analyzes the question patterns over the years and their impact on student performance. The study compares these patterns with those from other universities (both public and private) and explores potential improvements to the exam system.
