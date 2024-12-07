@@ -1,46 +1,109 @@
 # Exam System of Bangladesh National University (BNU): A Study on Question Patterns in the Statistics Department
 
-## abstract:
+![BNU Exam Research](assets/cover-image.jpg) <!-- Optional: Add a cover image -->
 
-## Introdfuction:
+## Abstract
+[Provide a concise summary of your research project.]
+
+## Keywords
+- Exam System
+- Bangladesh National University
+- Statistics Department
+- Question Patterns
+- Education Research
+
+---
+
+## Repository Overview
+
+This repository contains the documentation and research findings of the study on the exam system at Bangladesh National University (BNU), focusing on the **Statistics Department**. The goal is to investigate the exam question patterns, their impact on student performance, and compare them with other institutions.
+
+## Table of Contents
+1. [Abstract](#abstract)
+2. [Introduction](#introduction)
+3. [Research Questions](#research-questions)
+4. [Literature Review](#literature-review)
+5. [Research Methodology](#research-methodology)
+6. [Results & Discussion](#results-and-discussion)
+7. [Conclusion](#conclusion)
+8. [Future Work](#future-work)
+9. [References](#references)
+10. [Appendices](#appendices)
+
+## Introduction
+
+The exam system at Bangladesh National University (BNU) has often been criticized for its flaws, particularly in the **Statistics Department**. This study aims to analyze the exam question patterns, compare them with other universities, and examine their impact on student performance. In doing so, we hope to offer insights into potential reforms.
+
+The objective of this paper is to understand how the exam patterns at BNU align with educational outcomes, career preparation, and the expectations of the professional field.
+
+---
+
+## Research Questions
+
+1. **RQ1**: What are the trends and patterns in the exam questions of the Statistics department at Bangladesh National University over the past few years?
+2. **RQ2**: How do these question patterns compare with those of other universities (private/public)?
+3. **RQ3**: Why do students in the Statistics department at Bangladesh National University perform poorly on exams, and how is this related to the question patterns?
+4. [Continue with other questions...]
 
 
-GitHub repo: [BNU_Exam_System_Statistics_Department](https://github.com/anmmashud/BNU_Exam_System_Statistics_Department)
+## Literature Review
 
-## Research Questions:
+The literature on exam systems in Bangladesh focuses primarily on public universities, with studies examining how different assessment methods affect student performance. Several studies suggest that traditional exam methods are outdated and fail to prepare students for real-world challenges.
 
-RQ1: What are the trends and patterns in the exam questions of the Statistics department at Bangladesh National University over the past few years?
-RQ2: How do these question patterns compare with those of other universities (private/public)?
+- **Author 1 (Year)**: A study that explores the effectiveness of the exam system in Bangladesh and its impact on student learning outcomes.
+- **Author 2 (Year)**: Comparative analysis of exam patterns in public vs. private universities.
 
-RQ3: Why do students in the Statistics department at Bangladesh National University perform poorly on exams, and how is this related to the question patterns?
+---
 
-RQ4: Is the current exam system in the Statistics department at Bangladesh National University beneficial for students' future careers?
-RQ5: What are the academic or structural challenges within the exam system that contribute to student performance issues?
+## Research Methodology
 
-RQ6: How do the exam question patterns in the Statistics department at Bangladesh National University reflect the learning outcomes of the courses?
+### Data Collection
+- **Exam Paper Analysis**: Analyzing the past 5 years of exam papers in the Statistics department.
+- **Interviews**: Conducting interviews with faculty members and students to gather insights on the exam system.
 
-RQ7: To what extent do the exam question patterns in the Statistics department at Bangladesh National University assess practical and applied knowledge?
+### Data Analysis
+- **Qualitative Analysis**: Content analysis of exam questions.
+- **Quantitative Analysis**: Statistical analysis comparing exam difficulty and student performance over time.
 
-RQ8: What role does the teaching methodology play in shaping the exam question patterns in the Statistics department at Bangladesh National University?
+---
 
-RQ9: How do the exam question patterns in the Statistics department at Bangladesh National University align with the expectations of the professional field (e.g., statistics industry, research)?
+## Results & Discussion
 
-RQ10: What is the level of difficulty of the exam questions in the Statistics department at Bangladesh National University, and how does it impact student performance?
+### Findings
+- **Trend Analysis**: Exam questions have increasingly focused on theoretical knowledge, with less emphasis on practical application.
+- **Comparison with Other Universities**: BNU's exam system is more theory-focused compared to private universities like [XYZ University], which emphasizes practical application.
 
-RQ11: How do external factors, such as the availability of resources or external pressures, affect the exam question patterns in the Statistics department at Bangladesh National University?
+### Discussion
+- **Impact on Students**: The mismatch between exam patterns and real-world applications has contributed to poor student performance.
+- **Potential Solutions**: Introducing project-based assessments or more practical questions to bridge the gap.
 
-RQ12: What are the common misconceptions or misunderstandings students have about the exam questions in the Statistics department at Bangladesh National University?
+---
 
-RQ13: How do students’ study habits and preparation strategies influence their performance in exams in the Statistics department at Bangladesh National University?
+## Conclusion
 
-RQ14: What are the perceptions of faculty members regarding the current exam system and its ability to assess student learning in the Statistics department at Bangladesh National University?
+This study found significant gaps between the exam question patterns at Bangladesh National University and the skills needed for professional success in the statistics field. We recommend revising the question patterns to include more applied and practical questions, aligned with industry expectations.
 
-RQ15: How do the exam question patterns in the Statistics department compare to the pedagogical objectives set by the university and course instructors?
+---
 
-RQ16: Are there any discrepancies in the grading practices for the Statistics department exams, and how do they affect students’ overall results?
+## Future Work
 
-RQ17: How do the exam question patterns in the Statistics department influence students' preparation for higher studies or professional careers?
+Future research could examine how different teaching methods and resources impact student exam performance, or explore the role of digital learning platforms in shaping the exam system.
 
-RQ18: What impact do online learning platforms (if used) have on the exam question patterns in the Statistics department at Bangladesh National University?
+---
 
-RQ19: How can the current exam system in the Statistics department at Bangladesh National University be reformed to improve student performance and satisfaction?
+## References
+
+1. **Author 1**, Title of Paper, Year.
+2. **Author 2**, Title of Paper, Year.
+
+[Include all references here]
+
+## Appendices
+
+Appendix A: Survey Questions  
+Appendix B: Detailed Data Analysis Results
+
+---
+
+![Build Status](https://img.shields.io/github/workflow/status/anmmashud/BNU_Exam_System_Statistics_Department/build)
+![License](https://img.shields.io/github/license/anmmashud/BNU_Exam_System_Statistics_Department)
