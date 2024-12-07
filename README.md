@@ -139,7 +139,7 @@ Here are key papers and resources that inspired and contributed to this research
 Academic Performance in Public and National University of Bangladesh, 2017**](https://www.researchgate.net/profile/Md-Hossain-243/publication/321363239_The_Impact_of_Students_Socio-economic_Condition_on_Academic_Performance_in_Public_and_National_University_of_Bangladesh/links/5a1ed4e0aca272cbfbc077b6/The-Impact-of-Students-Socio-economic-Condition-on-Academic-Performance-in-Public-and-National-University-of-Bangladesh.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)  
   A study on the socio-economic factors influencing academic performance at BNU.
 
-- [**Assessing Students' Satisfaction in Public Universities in Bangladesh: An Empirical Study, 2020**](https://koreascience.kr/article/JAKO202026061031644.page)  
+- [**Assessing Student's Satisfaction in Public Universities in Bangladesh: An Empirical Study, 2020**](https://koreascience.kr/article/JAKO202026061031644.page)  
   Investigates student satisfaction levels in Bangladesh's public universities, providing insight into exam-related issues.
 
 - [**Quality in Statistics Education, 2009**](https://www.researchgate.net/profile/Pieternel-Verhoeven/publication/236179146_Verhoeven_PS_2009_Quality_in_Statistics_Education_Determinants_of_Course_Outcomes_in_Methods_Statistics_Education_at_Universities_and_Colleges_PhD_dissertation_Amsterdam_Boom_Onderwijs/links/00b7d528c86669781c000000/Verhoeven-PS-2009-Quality-in-Statistics-Education-Determinants-of-Course-Outcomes-in-Methods-Statistics-Education-at-Universities-and-Colleges-PhD-dissertation-Amsterdam-Boom-Onderwijs.pdf)  
