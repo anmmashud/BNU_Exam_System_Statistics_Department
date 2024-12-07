@@ -143,6 +143,8 @@ Here are key papers and resources that inspired and contributed to this research
 - [**A Study on National University and Affiliated Colleges in Bangladesh, 2014**](https://fid4sa-repository.ub.uni-heidelberg.de/3446/)  
   Examines the overall functioning and issues within BNU and its affiliated colleges.
 
+- [**Impact of Online Education on Students in Public and Private Universities Bangladesh: A Qualitative Investigation**](https://www.universepg.com/public/img/storage/journal-pdf/Impact%20of%20online%20education%20on%20students%20in%20public%20and%20private%20universities%20Bangladesh.pdf) 
+
 - *More Papers Are Coming Soon...*
 
 ---
