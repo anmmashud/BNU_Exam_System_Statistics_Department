@@ -1,6 +1,6 @@
 # Exam System of Bangladesh National University (BNU): A Study on Question Patterns in the Statistics Department
 
-![BNU Exam Research](images/cover-image.webp) <!-- Optional: Add a cover image -->
+![BNU Exam Research](assets/images/cover-image.webp) <!-- Optional: Add a cover image -->
 
 ## Abstract
 This repository presents the study on the exam system at Bangladesh National University (BNU), focusing on the **Statistics Department**. The research analyzes the question patterns over the years and their impact on student performance. The study compares these patterns with those from other universities (both public and private) and explores potential improvements to the exam system.
@@ -50,7 +50,7 @@ The exam system at Bangladesh National University (BNU) has been criticized for 
 7. **RQ7**: To what extent do the exam question patterns assess practical and applied knowledge?
 8. **RQ8**: What role does the teaching methodology play in shaping the exam question patterns?
 
-[Continue with other questions...]
+[More Question will add if needed...]
 
 ---
 
@@ -106,13 +106,27 @@ Here are the key papers and resources that inspired and contributed to this rese
 - [**Paper 1: Challenges of Quality Higher Education in Bangladesh**](https://kiet.edu.pk/marketforces/index.php/marketforces/article/view/278)  
   This paper explores the educational challenges in Bangladesh, which helped identify the issues with the exam system at BNU.
 
-- [**Paper 2: Impact of Question Patterns on Student Performance**](#link-to-paper-2)  
-  A detailed study on the effect of exam question patterns on student performance.
+- [**Paper 2: Study of Bangladesh National University, 2014**](http://miurs.manarat.ac.bd/download/vol03/09.pdf)  
 
-- [**Paper 3: Education System Comparison**](#link-to-paper-3)  
-  A comparative study of exam systems in public vs. private universities.
+- [**Paper 3: Education Management AT Tertiary Level: A case of Bangladesh National University BNU, 2014**](https://www.researchgate.net/profile/Gouranga-Debnath-2/publication/332570860_Education_Management_AT_Tertiary_Level_A_case_of_Bangladesh_National_University_BNU/links/5cbe9eb292851c8d22fea59e/Education-Management-AT-Tertiary-Level-A-case-of-Bangladesh-National-University-BNU)  
 
-[Explore all resources here](#link-to-folder-or-paper-list)
+- [**Paper 4: The examination system in Bangladesh and its impact: on curriculum, students, teachers and society, 2018**](https://link.springer.com/article/10.1186/s40468-018-0060-9)  
+  
+- [**Paper 5: Online Examination based University Management System, 2016**](http://182.160.117.219:8080/xmlui/handle/123456789/191)  
+
+- [**Paper 6: The Impact of Students Socio-economic Condition on
+Academic Performance in Public and National University of Bangladesh, 2017**](https://www.researchgate.net/profile/Md-Hossain-243/publication/321363239_The_Impact_of_Students_Socio-economic_Condition_on_Academic_Performance_in_Public_and_National_University_of_Bangladesh/links/5a1ed4e0aca272cbfbc077b6/The-Impact-of-Students-Socio-economic-Condition-on-Academic-Performance-in-Public-and-National-University-of-Bangladesh.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)  
+
+- [**Paper 7: Assessing Students' Satisfaction in Public Universities in Bangladesh: An Empirical Study, 2020**](https://koreascience.kr/article/JAKO202026061031644.page)  
+
+- [**Paper 8: Quality in Statistics Education, 2009**](https://www.researchgate.net/profile/Pieternel-Verhoeven/publication/236179146_Verhoeven_PS_2009_Quality_in_Statistics_Education_Determinants_of_Course_Outcomes_in_Methods_Statistics_Education_at_Universities_and_Colleges_PhD_dissertation_Amsterdam_Boom_Onderwijs/links/00b7d528c86669781c000000/Verhoeven-PS-2009-Quality-in-Statistics-Education-Determinants-of-Course-Outcomes-in-Methods-Statistics-Education-at-Universities-and-Colleges-PhD-dissertation-Amsterdam-Boom-Onderwijs.pdf)  
+
+- [**Paper 9: A Study on National University and Affiliated Colleges in Bangladesh, 2014**](https://fid4sa-repository.ub.uni-heidelberg.de/3446/)  
+
+- [**Paper 10: Coming Soon...**](#)  
+
+<!-- [Explore all resources here](#link-to-folder-or-paper-list) -->
+
 
 ---
 
