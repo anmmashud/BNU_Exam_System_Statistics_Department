@@ -126,7 +126,7 @@ Here are key papers and resources that inspired and contributed to this research
 - [**Study of Bangladesh National University, 2014**](http://miurs.manarat.ac.bd/download/vol03/09.pdf)  
   Discusses BNU's academic structure and the challenges faced by students and faculty.
 
-- [**Education Management AT Tertiary Level A case of Bangladesh National University BNU, 2014**](https://www.researchgate.net/profile/Gouranga-Debnath-2/publication/332570860_Education_Management_AT_Tertiary_Level_A_case_of_Bangladesh_National_University_BNU/links/5cbe9eb292851c8d22fea59e/Education-Management-AT-Tertiary-Level-A-case-of-Bangladesh-National-University-BNU)  
+- [**Education Management AT Tertiary Level: A case of Bangladesh National University BNU, 2014**](https://www.researchgate.net/profile/Gouranga-Debnath-2/publication/332570860_Education_Management_AT_Tertiary_Level_A_case_of_Bangladesh_National_University_BNU/links/5cbe9eb292851c8d22fea59e/Education-Management-AT-Tertiary-Level-A-case-of-Bangladesh-National-University-BNU)  
   A study on the management of education in the tertiary sector, specifically focusing on BNU.
 
 - [**The examination system in Bangladesh and its impact: on curriculum, students, teachers and society, 2018**](https://link.springer.com/article/10.1186/s40468-018-0060-9)  
